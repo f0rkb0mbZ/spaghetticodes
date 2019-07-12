@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - collections_basics",
+            "request": "launch",
+            "mainClass": "collections_basics",
+            "projectName": "hackerearth_basic_717e18ff"
+        }
+    ]
+}
